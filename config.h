@@ -5,7 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Consolas NF:pixelsize=18:antialias=true:autohint=true";
+static char *font = "terminus:pixelsize=18:antialias=true:autohint=true";
+//static char *font2[] = { "Symbola:pixelsize=18:antialias=true:autohint=true", "PowerlineSymbols:pixelsize=18:antialias=true:autohint=true" };
 static int borderpx = 25;
 
 /*
